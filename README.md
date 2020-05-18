@@ -1,2 +1,1 @@
-# pythonstart
-My first game code - Blackjack 21
+Hello World!
